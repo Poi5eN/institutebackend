@@ -7,7 +7,7 @@ const app = express()
 
 
 const corsOptions = {
-  origin:['https://eshikshamitralms.netlify.app', 'http://localhost:3000'],
+  origin:['https://eshikshamitrainstitute.netlify.app/', 'http://localhost:3000'],
   // methods: ['GET', 'POST', 'PUT', 'DELETE'],
 
   // origin: 'http://localhost:3000',
